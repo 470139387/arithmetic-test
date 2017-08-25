@@ -6,7 +6,7 @@ public class MyStack1 {
     
     private Stack<Integer> stackData;
     
-    //记录每一步的最小值阿是飞洒22222
+    //记录每一步的最小值阿是飞洒22222阿是飞洒
     private Stack<Integer> stackMin;
     
     public MyStack1(){
